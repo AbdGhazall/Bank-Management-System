@@ -102,5 +102,5 @@ This Banking System is a console-based Java application that simulates common ba
 - **Database Tables**  
 	- user table    
  	  ![users](https://github.com/user-attachments/assets/8b4f202d-844a-4b59-bb6c-350dc5a1d1ab)
-   	- accounts table
+   	- accounts table    
 	![accounts](https://github.com/user-attachments/assets/a413281a-b057-49d5-9f4d-c5183e7a7e47)
