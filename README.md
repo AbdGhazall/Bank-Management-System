@@ -96,8 +96,10 @@ This Banking System is a console-based Java application that simulates common ba
 
 
 
-- **Output**
-	- 
+- **Output**    
+	- ![1](https://github.com/user-attachments/assets/81c388c8-9176-4d90-870d-71ba3b1f0f7c)
+ 	-![2](https://github.com/user-attachments/assets/d2cde604-a59c-4a65-9049-012d80b769ca)
+   	-![3](https://github.com/user-attachments/assets/8ede5919-5242-4052-8935-45720adce888) 
 
 - **Database Tables**  
 	- User Table    
