@@ -47,7 +47,7 @@ This Banking System is a console-based Java application that simulates common ba
 1.  **Clone the Project:**
     
     ```bash
-    git clone https://github.com/AbdGhazall/Bank-Management-System.git`
+    git clone https://github.com/AbdGhazall/Bank-Management-System.git
     ``` 
     
 2.  **Set Up Database**:
